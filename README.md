@@ -28,15 +28,9 @@
 
 <br></br>
 ## 2. 주의 사항
-
 - 제출한 링크가 잘못되었거나, 레파지토리에 접근할 수 없는 경우에는 탈락 처리됩니다.
 - “과제 제출 필수 사항”을 준수하지 않을 경우에도 탈락 처리됩니다.
 - 레파지토리에 접속했을 때 바로 소스코드가 보일 수 있도록 해주세요. 불필요한 depth는 허용되지 않습니다.
-    - 올바른 예시: **https://github.com/walking-sunset/right-example**
-    - 불필요한 depth가 존재하는 예시: **https://github.com/walking-sunset/wrong-example**
-- 레파지토리의 링크, 아닌 특정 폴더의 링크를 제출해주세요.
-    - 올바른 예시: **https://github.com/walking-sunset/right-example**
-    - 특정 폴더의 링크를 제출한 예시: **https://github.com/walking-sunset/right-example/tree/master/src**
 - 과제 제출 후에는 코드 변경을 지양해주시고, 평가와 무관하게 수정을 하고 싶을 경우 default branch(master or main)가 아닌 별도의 브랜치에서 작업해주세요.
 
 <br></br>
